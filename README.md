@@ -16,7 +16,7 @@ The assignment/challenge was to create a password generator from the starter cod
 
 ## Link & Photos:
 
-Click [here] (http://127.0.0.1:5500/friendly-parakeet-main/friendly-parakeet-main/Develop/index.html) to see the password generator
+Click [here](http://127.0.0.1:5500/friendly-parakeet-main/friendly-parakeet-main/Develop/index.html) to see the password generator
 
 
 
