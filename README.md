@@ -16,4 +16,3 @@ The assignment/challenge was to create a password generator from the starter cod
 
 ## Link & Photos:
 
-this is just to see if it is connected corretly with github when merging back
