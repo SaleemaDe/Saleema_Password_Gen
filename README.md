@@ -16,3 +16,5 @@ The assignment/challenge was to create a password generator from the starter cod
 
 ## Link & Photos:
 
+
+*Please note I am still working on it, and will be updating soon*
